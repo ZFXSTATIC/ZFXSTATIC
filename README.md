@@ -8,6 +8,7 @@ I run two community servers for Dauntless, so people can keep playing after the 
 - Website: https://afterlifeinteractive.com
 - Ramsgate Reborn: https://afterlifeinteractive.com/ramsgate-reborn.html
 - Patreon: https://www.patreon.com/cw/RamsgateReborn
+- Support: https://support.afterlifeinteractive.com/
 - Discord: https://discord.gg/dauntlessrevived
 
 Dauntless Revived is on GitHub: [ZFXSTATIC/dauntless-revived](https://github.com/ZFXSTATIC/dauntless-revived).
